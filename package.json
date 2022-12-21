@@ -4,7 +4,8 @@
   "description": "Test Application",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js"
+    "test": "node server.js",
+    "dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,17 @@
   "bugs": {
     "url": "https://github.com/Scorpion018/Hazard-Usa-company-details-casualities-by-year.git;/issues"
   },
-  "homepage": "https://github.com/Scorpion018/Hazard-Usa-company-details-casualities-by-year.git;#readme"
+  "homepage": "https://github.com/Scorpion018/Hazard-Usa-company-details-casualities-by-year.git;#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "nodemon": "^2.0.20",
+    "open": "^8.4.0",
+    "pg": "^8.8.0"
+  }
 }
