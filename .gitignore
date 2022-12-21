@@ -1,0 +1,11 @@
+node_modules
+CA.key
+CA.pem
+CA.srl
+localhost.crt
+localhost.csr
+localhost.decrypted.key
+localhost.ext
+localhost.key
+RootCA.key
+RootCA.pem
