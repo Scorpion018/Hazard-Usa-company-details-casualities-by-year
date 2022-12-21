@@ -1,0 +1,22 @@
+{
+  "name": "testapplication",
+  "version": "1.0.0",
+  "description": "Test Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scorpion018/Hazard-Usa-company-details-casualities-by-year.git;.git"
+  },
+  "keywords": [
+    "None"
+  ],
+  "author": "Vishu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scorpion018/Hazard-Usa-company-details-casualities-by-year.git;/issues"
+  },
+  "homepage": "https://github.com/Scorpion018/Hazard-Usa-company-details-casualities-by-year.git;#readme"
+}
